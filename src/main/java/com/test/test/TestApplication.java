@@ -28,7 +28,7 @@ public class TestApplication {
      * git测试 3
      */
     public void test3(){
-        System.out.println("4");
+        System.out.println("3");
     }
 
 }
