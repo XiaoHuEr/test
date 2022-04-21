@@ -31,4 +31,12 @@ public class TestApplication {
         System.out.println("3");
     }
 
+    /**
+     * git测试 4
+     */
+    public void test4(){
+        System.out.println("1");
+        System.out.println("2");
+    }
+
 }
