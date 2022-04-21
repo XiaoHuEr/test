@@ -35,7 +35,10 @@ public class TestApplication {
      * git测试 4
      */
     public void test4(){
+
+
         System.out.println("1");
+
         System.out.println("2");
     }
 
