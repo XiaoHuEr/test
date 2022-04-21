@@ -10,4 +10,11 @@ public class TestApplication {
         SpringApplication.run(TestApplication.class, args);
     }
 
+    /**
+     * git测试1
+     */
+    public void test1(){
+
+    }
+
 }
