@@ -17,4 +17,11 @@ public class TestApplication {
 
     }
 
+    /**
+     * git测试 2
+     */
+    public void test2(){
+        System.out.println("1");
+    }
+
 }
